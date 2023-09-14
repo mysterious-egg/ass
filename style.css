@@ -1,0 +1,110 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color:  #563d7c;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.cc{
+    margin-bottom: 30px
+}
+.apa{
+    margin-bottom: 30px;
+}
+a{
+    font-size: x-large;
+    margin-right: 50px;
+    color: white;
+    text-decoration: none;
+}
+.navend{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 550px;
+}
+.aca{
+    font-size: x-large;
+    margin-left: -50px;
+   
+}
+.logo{
+    margin-left: -50px;
+}
+.ScreenMode{
+    margin-right: 50px;
+}
+.mid{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+}
+.bb{
+    background-color: yellow;
+    border-radius: 12px;
+    
+    margin-right: 50px;
+    width: 100px;
+    
+
+    
+}
+.main{
+    text-align: center;
+    height: 400px;
+    margin-top: 90px;
+    font-size: 70px;
+}
+.bodypara{
+    margin-top: -280px;
+    text-align: center;
+}
+p{
+    font-size: x-large;
+}
+.spr{
+    height: 50px;
+    width: 169px;
+    background-color: grey;
+
+    color:white;
+    
+}
+.sl{
+    background-color: #563d7c;
+    color: white;
+    height: 50px;
+    width: 85px;
+    
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/abstract-fluid-neon-color-3d-effect-background-banner-design-multipurpose_1340-16669.jpg);
+    
+}
+span{
+    text-decoration: underline;
+    
+}
+.li{
+    margin-top: 50px;
+}
+
+.parent-read{
+
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    align-items: center;
+    margin-left: 40%;
+}
+
+::placeholder {
+    color: red;
+  }
+  
